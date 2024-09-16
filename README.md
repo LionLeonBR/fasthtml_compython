@@ -1,7 +1,3 @@
-Aqui está a documentação em formato **README.md** para o seu projeto FastHTML com Supabase e outras bibliotecas.
-
----
-
 # Caderninho de Visitantes :D
 
 Este projeto é uma aplicação web simples desenvolvida com **FastHTML** para criar um "Caderno de Visitantes" onde os usuários podem deixar mensagens e vê-las em tempo real. A aplicação utiliza o **Supabase** como backend para armazenar e recuperar as mensagens enviadas pelos visitantes.
